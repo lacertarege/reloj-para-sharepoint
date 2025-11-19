@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "digital-clock-webpart-client-side-solution",
+    "id": "53d4960e-02ca-4f3e-a521-55df44fddfcb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "digital-clock-webpart description"
+      },
+      "longDescription": {
+        "default": "digital-clock-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "digital-clock-webpart Feature",
+        "description": "The feature that activates elements of the digital-clock-webpart solution.",
+        "id": "506646a4-4a76-4728-b541-7d3cad21ab4e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/digital-clock-webpart.sppkg"
+  }
+}
